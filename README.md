@@ -2,7 +2,7 @@
 <div dir="rtl"> ✪ مهمة تابعة لمسار الميكانيكا في تدريب عام 2021 لمؤسسة الأساليب الذكية. </div>
 <br>
   
-<div dir="rtl"><img width="300" alt="base"  src=https://user-images.githubusercontent.com/52053143/129962847-dab67333-b3d5-42ff-8684-f7dbdcc93131.jpg> </div>
+<div align="center"><img width="450" alt="base"  src=https://user-images.githubusercontent.com/52053143/129962847-dab67333-b3d5-42ff-8684-f7dbdcc93131.jpg> </div>
 <br>
 
 ### <div dir="rtl">● القياسات المعطاة:</div> <br>
